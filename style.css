@@ -1,4 +1,3 @@
-
 * { padding: 0; margin: 0; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; }
 :root { --white: #ffffff;--black: #000000;--light-t1:#CCC4ED;--text-color-1:rgba(187, 177, 231, 0.62);--text-color-2:rgba(154, 119, 35, 1);--text-color-3:rgba(3, 140, 54, 1);--text-color-4:#A395DF;--text-color-5:#9F91DE;--text-color-6:#826DFF;--text-color-7:#9A7723;--text-color-8:#EAA742;--text-color-9:#E9A742;--text-color-10:#C4893B;--text-color-11:#FFE0B7;--text-color-12:#DFA650;--text-color-13:#FFCA79;--border-color-2:#6B5536;--text-color-14:#038C36;--text-color-15:#04BC49;--text-color-16:#01AB3F;--text-color-17:#D4FFE4;}
 body {font-family:'VALORANT';font-size: 12px;line-height:18px; font-weight: 400; font-style: normal; width: 100%; height: 100%; padding: 0; margin:auto; max-width:2560px;background:var(--white);color:var(--text-color-1);}
